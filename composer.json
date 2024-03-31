@@ -1,0 +1,7 @@
+{
+"name": "jayde/php8.2.0",
+"type": "project",
+"require": {
+"snipe/banbuilder": "dev-master"
+}
+}
